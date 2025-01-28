@@ -5,7 +5,7 @@
 
   <br/>
 
-- 🔭 I’m currently working on private project
+- 🔭 I’m currently working on AI projects!
 
 - 👯 I’m looking to collaborate on any front-end project
 
