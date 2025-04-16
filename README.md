@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on AI projects!
 
-- 👯 I’m looking to collaborate on any front-end project
+- 👯 I’m looking to collaborate on any full stack or Generative AI project
 
-- 👨‍💻 All of my projects are available here at GitHub
+- 👨‍💻 Some of my projects are available here at GitHub
 
 - 📫 Reach me out at https://linkedin.com/in/nabeel-dev
 
-- 📫 Visit codepen to see more awsome work https://codepen.io/NabeelMustafa
+- 📫 Here is codepen. https://codepen.io/NabeelMustafa
 
 - 📫 Email **nabeelmustafaskp@gmail.com**
 
