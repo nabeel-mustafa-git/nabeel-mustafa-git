@@ -1,7 +1,7 @@
 
 <br/>
 
-  <h3 align="center">React Frontend developer from Pakistan!</h3>
+  <h3 align="center">Full stack developer!</h3>
 
   <br/>
 
