@@ -12,9 +12,6 @@
 
 <br/>
 
-<h3 align="center">Contact:</h3>
-
-<br/>
 
 <h3 align="center">Languages and Tools:</h3>
 
