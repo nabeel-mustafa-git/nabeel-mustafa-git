@@ -1,32 +1,18 @@
 
 <br/>
 
-  <h3 align="center">Full stack developer!</h3>
+  <h3 align="center">Creating something new!</h3>
 
   <br/>
 
-- 🔭 I’m currently working on AI projects!
-
-- 👯 I’m looking to collaborate on any full stack or Generative AI project
-
-- 👨‍💻 Some of my projects are available here at GitHub
 
 - 📫 Reach me out at https://linkedin.com/in/nabeel-dev
-
-- 📫 Here is codepen. https://codepen.io/NabeelMustafa
 
 - 📫 Email **nabeelmustafaskp@gmail.com**
 
 <br/>
 
 <h3 align="center">Contact:</h3>
-
-<br/>
-
-<p align="center">
-<a href="https://codepen.io/nabeelmustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nabeelmustafa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nabeel-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabeel-dev" height="30" width="40" /></a>
-</p>
 
 <br/>
 
@@ -38,7 +24,6 @@
 
 <br/>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeel-mustafa-git&show_icons=true&locale=en&layout=compact" alt="nabeel-mustafa-git" /></p>
 
 <br/>
 
