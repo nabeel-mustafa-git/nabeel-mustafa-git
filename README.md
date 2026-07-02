@@ -8,7 +8,6 @@
 
 - 📫 Reach me out at https://linkedin.com/in/nabeel-dev
 
-- 📫 Email **nabeelmustafaskp@gmail.com**
 
 <br/>
 
