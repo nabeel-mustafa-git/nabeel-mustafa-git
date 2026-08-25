@@ -42,7 +42,7 @@ const nabeel = {
     "design systems that scale past 3 devs",
     "accessible by default, not by audit",
   ],
-  currentlyLearning: "WebGL / real-time collaborative canvases", // ✏️ EDIT
+  currentlyLearning: "WebGL / real-time collaborative canvases",
 };
 ```
 
@@ -181,7 +181,7 @@ performance problem someone's stuck on.
 <br/>
 
 <div align="center">
-<i>Built in Lahore. Deployed everywhere.</i>
+<i>Built with Passion Deployed everywhere.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:4F46E5,100:0B1120&height=120&section=footer" width="100%" alt="" />
