@@ -1,11 +1,3 @@
-<!--
-════════════════════════════════════════════════════════════════
-  nabeel-mustafa-git / README.md
-  Palette: #0B1120 (ink) · #4F46E5 (indigo) · #06B6D4 (cyan) · #8B5CF6 (violet)
-  Anything marked ✏️ EDIT is a placeholder — swap it and delete the comment.
-════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:4F46E5,100:06B6D4&height=200&section=header&text=Nabeel%20Mustafa&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Full-Stack%20Developer%20•%20Frontend-Focused%20•%20Lahore,%20PK&descAlignY=54&descSize=15&animation=fadeIn" width="100%" alt="Nabeel Mustafa" />
@@ -18,8 +10,7 @@
 
 <a href="https://linkedin.com/in/nabeel-dev"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 <a href="https://xfigura.ai"><img src="https://img.shields.io/badge/xFigura.ai-0B1120?style=for-the-badge&logo=googlechrome&logoColor=06B6D4" alt="xFigura" /></a>
-<!-- ✏️ EDIT: your email -->
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="mailto:nabeelmustafaskp@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=nabeel-mustafa-git&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -35,7 +26,7 @@ const nabeel = {
   role:      "Full-Stack Developer, frontend-heavy",
   company:   "xFigura — an AI creative canvas for architects & designers",
   location:  "Lahore, Pakistan  🇵🇰",
-  education: "BS Information Technology, University of Lahore",
+  education: "BS Information Technology, University of the Punjab",
   daily:     ["React", "Next.js", "TypeScript", "Tailwind", "Node.js"],
   caresAbout: [
     "render performance & bundle size",
@@ -129,24 +120,6 @@ state, no room for jank.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="" />
 
-## 📌&nbsp; Selected work
-
-<!-- ✏️ EDIT: point these at real repos, or delete the section entirely.
-     Format: replace REPO_NAME with the repository name. -->
-
-<div align="center">
-
-<a href="https://github.com/nabeel-mustafa-git/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel-mustafa-git&repo=REPO_NAME&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=8B98A5" alt="Project one" />
-</a>
-<a href="https://github.com/nabeel-mustafa-git/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabeel-mustafa-git&repo=REPO_NAME_2&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=8B98A5" alt="Project two" />
-</a>
-
-</div>
-
-<br/>
-
 <details>
 <summary><b>🧭&nbsp; A few opinions, if you're still scrolling</b></summary>
 
@@ -173,8 +146,7 @@ performance problem someone's stuck on.
 
 <a href="https://linkedin.com/in/nabeel-dev"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<!-- ✏️ EDIT: your email -->
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Say_Hello-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="mailto:nabeelmustafaskp@gmail.com"><img src="https://img.shields.io/badge/Say_hello-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
